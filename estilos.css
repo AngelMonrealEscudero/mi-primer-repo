@@ -12,3 +12,9 @@ footer {
   color: #666666;
   font-size: 0.9em;
 }
+.contacto {
+  color: #2a5db0;
+  font-weight: bold;
+  background-color: #e0e0e0;
+  padding: 10px;
+}
