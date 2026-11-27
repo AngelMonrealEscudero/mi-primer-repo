@@ -21,3 +21,8 @@ footer {
 h2 {
   color: #2a5db0;
 }
+ul {
+  background-color: #e0e0e0;
+  padding: 20px;
+  border-radius: 10px;
+}
